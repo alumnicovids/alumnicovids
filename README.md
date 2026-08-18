@@ -14,7 +14,7 @@
     ██████▄▄▄▄▄██████         Editor: VS Code / Neovim
      ▀█████████████▀          
        ▀▀▀▀▀▀▀▀▀▀▀            ────────────────────────
-                               yourusername@github
+                               alumnicovids@github
                                ────────────────────────
                                ⬛⬛⬛⬛⬛⬛⬛⬛  Foreground
                                ⬜⬜⬜⬜⬜⬜⬜⬜  Background
@@ -24,8 +24,8 @@
 
 `Software / Web Developer` · `Indonesia`
 
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?style=for-the-badge&color=black&labelColor=black&logo=github&logoColor=white)](https://github.com/yourusername)
-[![Profile Views](https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=black&labelColor=black&label=PROFILE%20VIEWS&query=%24.count&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fyourusername%2Fprofile-readme)](https://github.com/yourusername)
+[![GitHub followers](https://img.shields.io/github/followers/alumnicovids?style=for-the-badge&color=black&labelColor=black&logo=github&logoColor=white)](https://github.com/alumnicovids)
+[![Profile Views](https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=black&labelColor=black&label=PROFILE%20VIEWS&query=%24.count&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Falumnicovids%2Fprofile-readme)](https://github.com/alumnicovids)
 
 </div>
 
@@ -92,10 +92,10 @@ guest@github:~$ ./show_stats.sh
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=cccccc&icon_color=ffffff" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=default&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=cccccc" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=alumnicovids&show_icons=true&theme=default&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=cccccc&icon_color=ffffff" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alumnicovids&layout=compact&theme=default&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=cccccc" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=default&hide_border=true&background=0D0D0D&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=alumnicovids&theme=default&hide_border=true&background=0D0D0D&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" />
 
 </div>
 
@@ -109,14 +109,14 @@ guest@github:~$ cat projects.md
 <tr>
 <td width="50%">
 
-**[Nama Proyek 1](https://github.com/yourusername/repo-1)**
+**[Nama Proyek 1](https://github.com/alumnicovids/repo-1)**
 Deskripsi singkat proyek — apa yang dikerjakan dan stack yang dipakai.
 `React` `Node.js` `MongoDB`
 
 </td>
 <td width="50%">
 
-**[Nama Proyek 2](https://github.com/yourusername/repo-2)**
+**[Nama Proyek 2](https://github.com/alumnicovids/repo-2)**
 Deskripsi singkat proyek — apa yang dikerjakan dan stack yang dipakai.
 `Next.js` `Tailwind` `PostgreSQL`
 
@@ -125,14 +125,14 @@ Deskripsi singkat proyek — apa yang dikerjakan dan stack yang dipakai.
 <tr>
 <td width="50%">
 
-**[Nama Proyek 3](https://github.com/yourusername/repo-3)**
+**[Nama Proyek 3](https://github.com/alumnicovids/repo-3)**
 Deskripsi singkat proyek — apa yang dikerjakan dan stack yang dipakai.
 `Laravel` `MySQL` `Docker`
 
 </td>
 <td width="50%">
 
-**[Nama Proyek 4](https://github.com/yourusername/repo-4)**
+**[Nama Proyek 4](https://github.com/alumnicovids/repo-4)**
 Deskripsi singkat proyek — apa yang dikerjakan dan stack yang dipakai.
 `Python` `FastAPI` `Redis`
 
@@ -149,8 +149,8 @@ guest@github:~$ cat contact.txt
 <div align="center">
 
 [![Email](https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Instagram](https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alumnicovids)
+[![Instagram](https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/alumnicovids)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://yourportfolio.com)
 
 </div>
